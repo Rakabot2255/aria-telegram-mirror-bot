@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1098137391:AAFdNmd_z5gHe4Q-aTxr6o_cOEiToscmLhc',
+  TOKEN: '1156896398:AAGdHBkMcdyDYUzFTihxXwhLOYj0fGgQp2U',
   ARIA_SECRET: 'cloudbot1',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
@@ -22,7 +22,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@CloudBot1_bot"
+    NAME: "@RakaBot5_bot"
   },
   IS_TEAM_DRIVE: false
 });
